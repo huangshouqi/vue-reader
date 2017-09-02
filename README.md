@@ -52,19 +52,19 @@ npm run build
 - [ ] 滑动翻页
 
 ## 预览图
-#### 首页
+### 首页
 ![](http://ovh9m465i.bkt.clouddn.com/1.png?imageMogr2/auto-orient/thumbnail/414x736!/blur/1x0/quality/75|imageslim)
 
-#### 分类页
+### 分类页
 ![](http://ovh9m465i.bkt.clouddn.com/2.png?imageMogr2/auto-orient/thumbnail/414x736!/blur/1x0/quality/75|imageslim)
 
-#### 书籍详情页
+### 书籍详情页
 ![](http://ovh9m465i.bkt.clouddn.com/3.png?imageMogr2/auto-orient/thumbnail/414x736!/blur/1x0/quality/75|imageslim)
 
-#### 阅读器界面
+### 目录
 ![](http://ovh9m465i.bkt.clouddn.com/4.png?imageMogr2/auto-orient/thumbnail/414x736!/blur/1x0/quality/75|imageslim)
 
-#### 目录
+### 阅读器
 ![](http://ovh9m465i.bkt.clouddn.com/5.png?imageMogr2/auto-orient/thumbnail/414x736!/blur/1x0/quality/75|imageslim)
 
 ## More
