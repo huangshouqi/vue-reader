@@ -29,8 +29,8 @@ npm run build
 ## 技术栈
 - vue2.0+vue-router+vuex（vue全家桶）
 - mint-ui（使用了swipe和pull-down组件）
-- es6(javascript核心规范)
-- stylus (css预处理器)
+- es6（javascript核心规范）
+- stylus （css预处理器）
 - axios（数据请求）
 - localStorage （HTML5本地存储）
 
@@ -45,7 +45,7 @@ npm run build
 - [x] 更改字体
 - [x] 更换主题
 - [x] 夜间模式
-- [x] 记录用户设置
+- [x] 记忆个性化设置
 ## 待加入功能
 - [ ] 书架
 - [ ] 搜索
