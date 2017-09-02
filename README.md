@@ -1,5 +1,4 @@
 # vue-reader
-----
 初学vue2.0，花几天时间模仿了一个小说阅读的WebApp，样式比较粗糙，参考了 [慕课网课程](http://coding.imooc.com/class/13.html) 和 [tgxhx](https://github.com/tgxhx/vue-reader/) 的项目，在其基础上进行了学习和改造。自我感觉代码还是有点混乱，仅仅实现了基本的功能，后期有时间的话会进行重构。
 
 > [在线预览](http://iwen.tianyan.hk)
@@ -53,13 +52,20 @@ npm run build
 - [ ] 滑动翻页
 
 ## 预览图
-
+#### 首页
 ![](http://ovh9m465i.bkt.clouddn.com/1.png?imageMogr2/auto-orient/thumbnail/414x736!/blur/1x0/quality/75|imageslim)
+
+#### 分类页
 ![](http://ovh9m465i.bkt.clouddn.com/2.png?imageMogr2/auto-orient/thumbnail/414x736!/blur/1x0/quality/75|imageslim)
+
+#### 书籍详情页
 ![](http://ovh9m465i.bkt.clouddn.com/3.png?imageMogr2/auto-orient/thumbnail/414x736!/blur/1x0/quality/75|imageslim)
+
+#### 阅读器界面
 ![](http://ovh9m465i.bkt.clouddn.com/4.png?imageMogr2/auto-orient/thumbnail/414x736!/blur/1x0/quality/75|imageslim)
+
+#### 目录
 ![](http://ovh9m465i.bkt.clouddn.com/5.png?imageMogr2/auto-orient/thumbnail/414x736!/blur/1x0/quality/75|imageslim)
 
 ## More
-----
 欢迎大家提出不足与建议，我会进行改正
