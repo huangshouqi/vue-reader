@@ -5,6 +5,8 @@
 > [在线预览](http://iwen.tianyan.hk)
 （手机预览和Chrome下f12效果最佳）
 
+>[源码地址](https://github.com/huangshouqi/vue-reader)
+
 > [api地址](https://github.com/tgxhx/node-book-api)
 
 ## 二维码扫描
@@ -51,12 +53,13 @@ npm run build
 - [ ] 滑动翻页
 
 ## 预览图
-![](http://ovh9m465i.bkt.clouddn.com/1.png)
-![](http://ovh9m465i.bkt.clouddn.com/2.png)
-![](http://ovh9m465i.bkt.clouddn.com/3.png)
-![](http://ovh9m465i.bkt.clouddn.com/4.png)
-![](http://ovh9m465i.bkt.clouddn.com/5.png)
 
+![](http://ovh9m465i.bkt.clouddn.com/1.png?imageMogr2/auto-orient/thumbnail/414x736!/blur/1x0/quality/75|imageslim)
+![](http://ovh9m465i.bkt.clouddn.com/2.png?imageMogr2/auto-orient/thumbnail/414x736!/blur/1x0/quality/75|imageslim)
+![](http://ovh9m465i.bkt.clouddn.com/3.png?imageMogr2/auto-orient/thumbnail/414x736!/blur/1x0/quality/75|imageslim)
+![](http://ovh9m465i.bkt.clouddn.com/4.png?imageMogr2/auto-orient/thumbnail/414x736!/blur/1x0/quality/75|imageslim)
+![](http://ovh9m465i.bkt.clouddn.com/5.png?imageMogr2/auto-orient/thumbnail/414x736!/blur/1x0/quality/75|imageslim)
 
- 
- 
+## More
+----
+欢迎大家提出不足与建议，我会进行改正
